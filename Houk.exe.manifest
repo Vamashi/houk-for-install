@@ -79,14 +79,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Houk.exe" size="1448416">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Houk.exe" size="1461216">
       <assemblyIdentity name="Houk" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>O4mKLYMtFEo/L+PUwb33Vz7N1W858dpJk2mJxiGgcTw=</dsig:DigestValue>
+        <dsig:DigestValue>prAURHXU2rmyt3677rqNnywqhM6gNEWPXNCLE3jnvGc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -98,7 +98,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>hraziHpIQhdJt+l17yfcU3GYqvhOLnH7jjjaazyFbC8=</dsig:DigestValue>
+        <dsig:DigestValue>olMy2WmY3S1VQGeaSFw/ZHpRkXdJcmvG+aceu4FZDok=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -290,7 +290,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Y8+r4OuOq5xErSvW3XDKC0MWhY5JcireNViqQpfI6RI=</dsig:DigestValue>
+        <dsig:DigestValue>AgxIa5fTqQEJ0AJQ1QCMqelJsuo1B/HgJH638QV+GLI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -475,14 +475,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WeAreDevs_API.dll" size="621568">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WeAreDevs_API.dll" size="622080">
       <assemblyIdentity name="WeAreDevs_API" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>3vZizl1MS2x5FtR8PxWWon/Vg2Z3X5TrUchUvz9MTz4=</dsig:DigestValue>
+        <dsig:DigestValue>e6D/pJ1LGrWbmxKT+vW9AhqxohcsIXLiIEKrcLNInrQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
